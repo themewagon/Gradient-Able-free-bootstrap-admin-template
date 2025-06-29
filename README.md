@@ -14,7 +14,7 @@ Clone from Github
 ```
 https://github.com/themewagon/Gradient-Able-free-bootstrap-admin-template.git
 ```
-*no other dependencies required to run the Datta Able Template*
+
 ## Author
 
 Design and code is completely written by CodedThemes's design and development team.  
