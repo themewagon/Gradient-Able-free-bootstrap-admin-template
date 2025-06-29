@@ -14,6 +14,14 @@ Clone from Github
 ```
 https://github.com/themewagon/Gradient-Able-free-bootstrap-admin-template.git
 ```
+## Install Dependencies
+```
+npm i
+```
+## Run Local Server
+```
+gulp
+```
 
 ## Author
 
