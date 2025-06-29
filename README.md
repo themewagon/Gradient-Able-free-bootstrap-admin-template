@@ -16,7 +16,7 @@ https://github.com/themewagon/Gradient-Able-free-bootstrap-admin-template.git
 ```
 ## Install Dependencies
 ```
-npm i
+yarn install
 ```
 ## Run Local Server
 ```
